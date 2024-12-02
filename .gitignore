@@ -31,6 +31,11 @@ pom.xml.asc
 **/.cpcache/*
 **/.config/*
 
+# Ignore polylith folders
+projects/*
+bases/*
+components/*
+
 # Other
 docker/*
 .vscode/*
